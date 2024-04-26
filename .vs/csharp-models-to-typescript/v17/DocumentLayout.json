@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "csharp-models-to-json_test",
+              "Title": "csharp-models-to-json_test.csproj",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\csharp-models-to-typescript\\lib\\csharp-models-to-json_test\\csharp-models-to-json_test.csproj",
               "RelativeDocumentMoniker": "lib\\csharp-models-to-json_test\\csharp-models-to-json_test.csproj",
               "ToolTip": "C:\\Users\\Alex\\Desktop\\csharp-models-to-typescript\\lib\\csharp-models-to-json_test\\csharp-models-to-json_test.csproj",
               "RelativeToolTip": "lib\\csharp-models-to-json_test\\csharp-models-to-json_test.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-26T17:33:48.002Z",
               "EditorCaption": ""
@@ -36,19 +40,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "csharp-models-to-json",
+              "Title": "csharp-models-to-json.csproj",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
               "RelativeDocumentMoniker": "lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
               "ToolTip": "C:\\Users\\Alex\\Desktop\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
               "RelativeToolTip": "lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-26T17:32:59.929Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
